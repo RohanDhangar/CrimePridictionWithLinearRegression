@@ -24,4 +24,4 @@ Guidelines for contributing to the project. Include information on how to report
 ## License
 Information about the project's license. Specify the type of license and include a copy of the license file if applicable.
 
-![Output Image](../Result/Final_Result.png)
+![Output Image](./Final_Result.png)
